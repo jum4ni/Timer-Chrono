@@ -14,7 +14,7 @@ Takaisinkutsu (callback)
 -	käyttäjä ei kutsu sitä
 -	Timer Chronossa tick on takaisinkutsu, selain kutsuu sitä automaattisesti 1 sekunnin välein.
 
-##Tapahtumapohjainen ohjelmointi
+## apahtumapohjainen ohjelmointi
 -	Ohjelma reagoi tapahtumiin
 -	Käyttäjän painaessa esim. nappia tapahtuma syntyy. Timer Chronossa käyttäjä painaa painikkeita Start, Stop ja Clear.
 -	Selain kutsuu funktiota
