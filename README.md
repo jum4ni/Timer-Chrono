@@ -50,4 +50,4 @@ Kuvassa käyttäjä painoi Stop-painiketta pysäyttääkseen ajanoton. Ajan edes
 <br><br>
 
 <img width="1004" height="454" alt="kuva" src="https://github.com/user-attachments/assets/1bc9b892-5196-454d-a110-73420e8c1a28" />
-Kuvassa käyttäjä painoi Clear-painiketta nollatakseen ajan. Käyttäjä voi halutessaan pysäyttää ja nollata ajan painamalla Clear-painiketta ajan oton ollessa käynnissä.
+Kuvassa käyttäjä painoi Clear-painiketta nollatakseen ajan. Käyttäjä voi halutessaan pysäyttää ja nollata ajan painamalla Clear-painiketta ajanoton ollessa käynnissä.
