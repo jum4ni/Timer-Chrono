@@ -42,12 +42,12 @@ Kuvassa ohjelma odottaa käyttäjän toimintaa. Ajan edessä Stopped-teksti.
 <img width="1004" height="445" alt="kuva" src="https://github.com/user-attachments/assets/9713059e-fafa-4adf-a672-dcfeba708219" />
 Kuvassa käyttäjä käynnisti ajanoton Start-painikkeesta ja aika juoksee. Ajan edessä Timing-teksti.
 
-
+<br><br>
 
 <img width="1004" height="451" alt="kuva" src="https://github.com/user-attachments/assets/a5dd863d-67d9-431d-8591-e8c56190d6b1" />
 Kuvassa käyttäjä painoi Stop-painiketta pysäyttääkseen ajanoton. Ajan edessä Stopped-teksti.
 
-
+<br><br>
 
 <img width="1004" height="454" alt="kuva" src="https://github.com/user-attachments/assets/1bc9b892-5196-454d-a110-73420e8c1a28" />
 Kuvassa käyttäjä painoi Clear-painiketta nollatakseen ajan. Käyttäjä voi halutessaan pysäyttää ja nollata ajan painamalla Clear-painiketta ajan oton ollessa käynnissä.
