@@ -28,7 +28,7 @@ Takaisinkutsu (callback)
 
 ## Eroavaisuudet
   Takaisinkutsu
-    o	Suorita tämä myöhemmin
+  - Suorita tämä myöhemmin
 
   Tapahtumapohjainen ohjelmointi
-    o	Suorita tämä, kun jotain tapahtuu
+  - Suorita tämä, kun jotain tapahtuu
