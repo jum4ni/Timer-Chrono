@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Timer Chrono</title>
+
+            <style>
+            body {
+                font-family: Arial, sans-serif;
+                margin: 0;
+                padding: 40px;
+                background: #f5f5f5;
+                text-align: center;
+            }
+
+            .top-right-info {
+                position: absolute;
+                top: 20px;
+                right: 20px;
+                text-align: right;
+                font-size: 14px;
+                color: #333;
+            }
+
+            .time-label {
+                font-weight: bold;
+                margin-right: 6px;
+            }
+
+            .container {
+                background: white;
+                padding: 30px;
+                max-width: 500px;
+                margin: 60px auto;
+                border-radius: 10px;
+                box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            }
+
+            h1 {
+            margin-bottom: 10px;
+            }
+
+            #timerDisplay {
+                font-size: 32px;
+                margin-bottom: 25px;
+                color: #333;
+                }
+
+            p {
+            color: #555;
+            margin-bottom: 20px;
+            }
+
+            .buttons button {
+            padding: 10px 20px;
+            margin: 0 8px;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 16px;
+            }
+
+            .btn-primary {
+            background: #007bff;
+            color: white;
+            }
+
+            .btn-secondary {
+            background: #6c757d;
+            color: white;
+            }
+
+        </style>
+
+    </head>
+    <body>
+        <div class="top-right-info">
+            <span class="time-label">Current time:</span>
+            <span id="timeDisplay">12:00</span>
+        </div>
+
+
+        <div class="container">
+            <h1>Timer Chrono</h1>
+
+        <div id="TimerChrono">
+        <!-- Aika ja vaihtuva teksti näkyy otsikon ja nappien välissä -->
+            <span id="front-of-timer">Stopped</span>
+            <span id="timerDisplay">00:00:00</span>
+        </div>
+
+            <div class="buttons">
+                <!-- id jotta voidaan vaihtaa teksti Start Stop -->
+                <button id="startStopButton" class="btn-primary" onclick="handleStartStopClick()">Start</button>
+                <button class="btn-secondary" onclick="handleClearClick()">Clear</button>
+            </div>
+    </div>
+    <script src="code.js"></script>
+    </body>
+</html>
