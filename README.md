@@ -37,7 +37,7 @@ Takaisinkutsu (callback)
 <img width="1004" height="451" alt="kuva" src="https://github.com/user-attachments/assets/5dca7df4-5613-476a-8b00-354d01dcf500" />
 Kuvassa ohjelma odottaa käyttäjän toimintaa. Ajan edessä Stopped-teksti.
 
-
+<br><br>
 
 <img width="1004" height="445" alt="kuva" src="https://github.com/user-attachments/assets/9713059e-fafa-4adf-a672-dcfeba708219" />
 Kuvassa käyttäjä käynnisti ajanoton Start-painikkeesta ja aika juoksee. Ajan edessä Timing-teksti.
